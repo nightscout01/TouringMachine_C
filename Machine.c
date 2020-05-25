@@ -1,5 +1,6 @@
-// Copyright 2020 Maurice Montag
+// Copyright Maurice Montag 2020
 // All Rights Reserved
+// See LICENSE file for more information
 
 #include <stdio.h>
 #include <stdbool.h> // so we can use boolean types
