@@ -1,5 +1,6 @@
 // Copyright Maurice Montag 2020
 // All Rights Reserved
+// See LICENSE file for more information
 
 #include<stdint.h>
 
